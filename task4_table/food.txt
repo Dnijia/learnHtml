@@ -1,0 +1,103 @@
+餐食营养数据
+
+各项数据
+Gluten-Free Bread:
+种类：breakfast bread
+图片：1.jpeg
+1.Calories：134	
+2.Saturated Fat (g) :1	 
+3.Trans Fat (g):1 
+4.Polyunsaturated Fat (g):1	
+5.Monounsaturated Fat (g):3
+6.Cholesterol (mg):20	
+7.Sodium (mg):162	
+8.Vitamin A (IU):30
+
+
+Gluten Free Cinnamon Raisin Bagels:
+种类：breakfast bread
+图片：2.jpeg
+1.Calories：390	
+2.Saturated Fat (g) :1	 
+3.Trans Fat (g):0
+4.Polyunsaturated Fat (g):0
+5.Monounsaturated Fat:0
+6.Cholesterol (mg):92
+7.Sodium (mg):914	
+8.Vitamin A (IU):30
+
+Drinks	Chocolate Pumpkin Smoothie:
+种类：breakfast Drinks
+图片：3.jpeg
+1.Calories：297
+2.Saturated Fat (g) :3 
+3.Trans Fat (g):0
+4.Polyunsaturated Fat (g):0
+5.Monounsaturated Fat:0
+6.Cholesterol (mg):10
+7.Sodium (mg):324
+8.Vitamin A (IU):22021
+
+Peanut Butter and Jelly Smoothie
+种类：breakfast Drinks
+图片：4.jpeg
+1.Calories：460
+2.Saturated Fat (g) :5 
+3.Trans Fat (g):0
+4.Polyunsaturated Fat (g):5
+5.Monounsaturated Fat:8
+6.Cholesterol (mg):10
+7.Sodium (mg):209
+8.Vitamin A (IU):
+
+lunch  cuisine	Mexican Pasta Salad	:
+种类：lunch cuisine
+图片：5.jpeg
+1.Calories：4248
+2.Saturated Fat (g) :1 
+3.Trans Fat (g):0
+4.Polyunsaturated Fat (g):1
+5.Monounsaturated Fat:4
+6.Cholesterol (mg):2
+7.Sodium (mg):408
+8.Vitamin A (IU):202
+
+Keto Taco Bowl:
+种类：lunch cuisine
+图片：6.jpeg
+1.Calories：746
+2.Saturated Fat (g) :8
+3.Trans Fat (g):2
+4.Polyunsaturated Fat (g):0
+5.Monounsaturated Fat:0
+6.Cholesterol (mg):128
+7.Sodium (mg):341
+8.Vitamin A (IU):11816
+
+Sandwishes	Honey BBQ Chicken Salad
+种类：lunch Sandwishes
+图片：7.jpeg
+1.Calories：185
+2.Saturated Fat (g) :2
+3.Trans Fat (g):1
+4.Polyunsaturated Fat (g):1
+5.Monounsaturated Fat:1
+6.Cholesterol (mg):57
+7.Sodium (mg):278
+8.Vitamin A (IU):147
+
+Chef’s Salad Lettuce Wraps
+种类：lunch Sandwishes
+图片：8.jpeg
+1.Calories：265
+2.Saturated Fat (g) :6
+3.Trans Fat (g):1
+4.Polyunsaturated Fat (g):1
+5.Monounsaturated Fat:1
+6.Cholesterol (mg):101
+7.Sodium (mg):919
+8.Vitamin A (IU):6440
+
+
+说明
+餐食的一些数据。（资料取自cupcakes kale chips，图片取自cupcakes kale chips照片库。）

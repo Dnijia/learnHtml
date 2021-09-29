@@ -1,0 +1,54 @@
+body {
+    font-family: Rubik, Arial;
+  }
+  
+form {
+    text-align: center;
+    line-height: 30px;
+    height: 80%;
+    overflow: auto;
+  }
+  
+form hr {
+    width: 15%;
+  }
+  
+h1 {
+    text-align: center;
+  }
+  
+#overlay {
+    width: 80%;
+    margin: 3% auto;
+    height: 95vh;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 40px;
+    border:1px solid black;
+    max-width: 600px;
+  }
+#overlay .done{
+    height: 100px;
+    display: block;
+    margin: auto;
+    line-height: 100px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2em;
+
+  }
+  
+#logo {
+    height: 100px;
+    display: block;
+    margin: auto;
+    line-height: 100px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2.5em;
+  }
+  
+  
+  label {
+    margin-right: 25px;
+  }
+  
